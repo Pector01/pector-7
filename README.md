@@ -1,2 +1,2 @@
-# project-7
+# pector-7
 for p7
